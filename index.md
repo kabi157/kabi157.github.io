@@ -9,7 +9,7 @@ glänzender Zylinder, seine Gamaschen und die Brillengläser sind ein
 Markenzeichen von Dagobert Duck. Er ist allgemein als geldgierig und 
 geizig bekannt.
 
-##  Character traits
+## Character traits
 
 * gierig
 * ehrgeizig
