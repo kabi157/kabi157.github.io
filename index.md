@@ -19,3 +19,5 @@ Wie Dagobert Duck sagt:
 
 > Ich bin reich geworden, weil ich härter war als die Härtesten und zäher als die Zähesten. 
 > Und ich bin ein ehrlicher Mann dabei geblieben.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Spirit_43_-_Scrooge_-_Oncle_Picsou_-_Garrepa.JPG"/>
