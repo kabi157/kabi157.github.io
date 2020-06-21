@@ -8,3 +8,9 @@ Zeichentrickfigur, die in der fiktiven Stadt Entenhausen lebt. Sein
 glänzender Zylinder, seine Gamaschen und die Brillengläser sind ein 
 Markenzeichen von Dagobert Duck. Er ist allgemein als geldgierig und 
 geizig bekannt.
+
+##  Character traits
+
+* gierig
+* ehrgeizig
+* sparsam
