@@ -14,3 +14,8 @@ geizig bekannt.
 * gierig
 * ehrgeizig
 * sparsam
+
+Wie Dagobert Duck sagt:
+
+> Ich bin reich geworden, weil ich härter war als die Härtesten und zäher als die Zähesten. 
+> Und ich bin ein ehrlicher Mann dabei geblieben.
